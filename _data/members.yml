@@ -529,8 +529,16 @@
 
 - name: Jason Hardwick
   date: 2025-02-01 00:00:00
-  status: current
+  status: past
   image_url: /assets/images/jasonhardwick.jpg
   position: Undergraduate Research Assistant
   email: hardwickj@g.cofc.edu
+  blog:
+
+- name: Lily Brown
+  date: 2025-07-10 00:00:00
+  status: current
+  image_url: /assets/images/LilyBrown.jpeg
+  position: Undergraduate Research Assistant
+  email: brownlg4@g.cofc.edu
   blog:
